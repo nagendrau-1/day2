@@ -1,6 +1,9 @@
 # day2
+
 Learning Academy :- SKILLS UPRISE
+
 Mentor:- Manoj kumar Koravangi
+
 IPv4 and IPv6,private and public IP ranges, domain names, domain structure, DNS importance, ports, and protocols.
 IPv4 and IPv6 are internet protocols that assign unique addresses to devices for network communication. IPv4 uses 32-bit addresses (about 4.3 billion unique ones), while IPv6 employs 128-bit addresses for vastly more capacity (3.4 x 10^38 addresses).
 IPv4 vs IPv6
